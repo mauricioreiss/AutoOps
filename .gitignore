@@ -2,3 +2,4 @@
 STUDY-MEMORY.md
 __pycache__/
 .env
+.venv/
